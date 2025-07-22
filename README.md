@@ -26,7 +26,7 @@ wget https://raw.githubusercontent.com/Silejonu/bash_loading_animations/main/bas
 
 Run the provided script `bash_loading_animations.demo` to quickly visualise the available animations.
 
-## Add support for loading animations to your script
+## Add support for loading animations to your script...
 
 Put these lines at the top of your script:
 
